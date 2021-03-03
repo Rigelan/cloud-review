@@ -62,3 +62,34 @@ Rather than Part 2, following AWS' example for using a custom domain.   You will
 
 docs.aws.amazon.comdocs.aws.amazon.com
 Walk through a code example of how to set up a static website using a custom domain.
+
+
+# Know more about Security in cloud
+
+Placeholder for the 3 summer labs
+
+# K8s security - how does your default K8s lab stand up to a common K8s control benchmark?
+
+https://github.com/aquasecurity/kube-bench
+    provides ability to test over 115 controls in K8s components and their interactions
+    how to quickly look at your
+
+
+[AquaSec Kube-bench][<https://github.com/aquasecurity/kube-bench>
+
+Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark - aquasecurity/kube-bench
+
+### Note: Rancher - embedded kube-bench (as CIS Scans) into Rancher - see demo screenshots)
+
+# CIS security gets elevation
+
+## Rancher integration of CIS and other test suites
+
+Rancher Security Docs for hardening guides and self assessments
+  https://rancher.com/docs/rancher/v2.x/en/security/
+
+## CIS Benchmarks™   - 
+CIS WebSite  https://www.cisecurity.org/cis-benchmarks
+CIS Benchmarks help you safeguard systems, software, and networks against today's evolving cyber threats. (93 kB)
+
+## Lack of NY DFS controls across 11 different k8s security analyzers
